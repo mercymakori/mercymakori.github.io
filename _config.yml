@@ -1,0 +1,43 @@
+title: Mercy Makori
+description: Portfolio of Mercy Makori — a showcase of work, skills, and projects. This site is under construction.
+url: "https://mercymakori.github.io"
+baseurl: ""
+
+author:
+  name: Mercy Makori
+  email: mercymakori@example.com
+  location: Kenya
+
+navigation:
+  - name: Home
+    url: /
+  - name: About
+    url: /about/
+  - name: Work
+    url: /projects/
+  - name: Contact
+    url: /contact/
+
+social_profiles:
+  github: "https://github.com/mercymakori"
+  twitter: ""
+  instagram: ""
+  facebook: ""
+  threads: ""
+  discord: ""
+  steam: ""
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Subtle rose accent — a warm, feminine-leaning accent on the same
+# enterprise dark base as the source design system. One accent color only.
+accent: "#f472b6"
+accent_hover: "#ec4899"
+accent_soft: "rgba(244, 114, 182, 0.1)"
