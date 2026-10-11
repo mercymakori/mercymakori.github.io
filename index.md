@@ -1,51 +1,67 @@
 ---
 layout: default
 title: Home
-description: Portfolio of Mercy Makori — work, skills, and projects. This site is under construction.
+description: Mercy Makori — History & Kiswahili teacher, trained in Kenyan Sign Language and inclusive education.
 ---
+{% assign cv = site.data.cv %}
 
-<section class="section">
+<section class="hero">
   <div class="page">
-    <div class="section-head">
-      <p class="kicker">Welcome</p>
-      <h1>Hi, I'm Mercy Makori.</h1>
-      <p class="lead">Welcome to my portfolio — a place to share my work, skills, and the projects I care about.</p>
+    <p class="hero-kicker">History &amp; Kiswahili Educator</p>
+    <h1 class="hero-name">{{ cv.contact.name }}</h1>
+    <p class="hero-tagline">{{ cv.contact.tagline }}</p>
+    <div class="hero-actions">
+      <a href="{{ '/about/' | relative_url }}" class="btn btn-primary">About me</a>
+      <a href="{{ '/projects/' | relative_url }}" class="btn btn-secondary">My work</a>
     </div>
-
-    <div class="construction-banner">
-      <span class="dot"></span>
-      <span>This site is under construction. I'm putting the finishing touches on things — check back soon for the full showcase.</span>
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <span class="hero-stat-num">B.Ed</span>
+        <span class="hero-stat-label">KCA University, 2nd Class Upper</span>
+      </div>
+      <div class="hero-stat">
+        <span class="hero-stat-num">CBE/CBC</span>
+        <span class="hero-stat-label">Competency-based curriculum</span>
+      </div>
+      <div class="hero-stat">
+        <span class="hero-stat-num">KSL</span>
+        <span class="hero-stat-label">Kenyan Sign Language trained</span>
+      </div>
     </div>
-
-    <p style="margin-top:24px">
-      I'm currently building out this space to present my experience and the things I've made.
-      In the meantime, feel free to look around — the <a href="{{ '/about/' | relative_url }}">about</a> and
-      <a href="{{ '/projects/' | relative_url }}">work</a> sections are the best places to start.
-    </p>
   </div>
 </section>
 
 <section class="section">
   <div class="page">
     <div class="section-head">
-      <p class="kicker">Showcase</p>
-      <h2>Selected work</h2>
-      <p>A first look at what's here — this section will grow as projects are added.</p>
+      <p class="kicker">Profile</p>
+      <h2>What I do</h2>
+    </div>
+    <p class="lead">{{ cv.summary }}</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="page">
+    <div class="section-head">
+      <p class="kicker">Highlights</p>
+      <h2>At a glance</h2>
     </div>
     <div class="projects-grid">
       <div class="project-card">
-        <span class="badge">In progress</span>
-        <h3>Portfolio</h3>
-        <p>This site — a clean, fast, personal portfolio built to showcase my work and tell my story. More sections and projects are on the way.</p>
-        <div class="project-stack"><span>Jekyll</span><span>GitHub Pages</span><span>Design</span></div>
-        <span class="project-link">Under construction →</span>
+        <span class="badge">Teaching</span>
+        <h3>History &amp; Kiswahili</h3>
+        <p>Teaching both subjects across Junior and Senior School, with learner-centred lessons aligned to the Competency-Based Education framework.</p>
       </div>
       <div class="project-card">
-        <span class="badge">Coming soon</span>
-        <h3>More projects</h3>
-        <p>Additional work, experiments, and write-ups will appear here as they're ready. Stay tuned.</p>
-        <div class="project-stack"><span>Coming soon</span></div>
-        <span class="project-link">Under construction →</span>
+        <span class="badge">Inclusion</span>
+        <h3>Kenyan Sign Language</h3>
+        <p>Certified in Kenyan Sign Language (Training of Trainers), with hands-on attachment experience at a school for the deaf and live interpretation.</p>
+      </div>
+      <div class="project-card">
+        <span class="badge">Training</span>
+        <h3>Trainer &amp; Facilitator</h3>
+        <p>Trained NYOTA beneficiaries in social-emotional, business, and digital skills — certified Training of Trainers.</p>
       </div>
     </div>
   </div>

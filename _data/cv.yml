@@ -1,0 +1,120 @@
+# Mercy Makori — CV master data. Single source of truth for the site pages.
+
+contact:
+  name: Mercy Makori
+  title: History & Kiswahili Teacher
+  tagline: Dedicated educator in History & Kiswahili, with training in Kenyan Sign Language and inclusive education.
+  location: Nairobi, Kenya
+  phone: "+254 717 114 239"
+  email: mercymonyenche368@gmail.com
+  tsc: "1179160"
+  github: "https://github.com/mercymakori"
+
+summary: >-
+  Dedicated and passionate History and Kiswahili teacher with a Bachelor of
+  Education and training in Kenyan Sign Language. Experienced in Junior and
+  Senior School teaching, secondary school teaching practice, inclusive
+  education, competency-based curriculum implementation, learner assessment,
+  and instructional resource development. Demonstrates strong classroom
+  management, communication, adaptability, learner engagement, and
+  collaboration skills, with experience supporting learners with diverse
+  educational needs.
+
+education:
+  - qualification: Bachelor of Education
+    institution: KCA University
+    period: September 2021 – November 2025
+    detail: "Second Class Honours (Upper Division)"
+  - qualification: Kenyan Sign Language Training
+    institution: Kenya Institute of Special Education
+    period: May 2025 – August 2025
+    detail: "Certificate in Kenyan Sign Language — Training of Trainers"
+  - qualification: Training of Trainers
+    institution: NYOTA Project, Intelli-Wealth Limited & Ministry of Youth Affairs, Creative Economy & Sports
+    period: 15 – 19 December 2025
+    detail: "Certificate in Training of Trainers"
+  - qualification: Kenya Certificate of Secondary Education
+    institution: St. Maria Veronica Secondary School, Nakuru
+    period: May 2021
+    detail: "Grade: C+"
+
+experience:
+  - role: Teacher — Kiswahili & History
+    org: Damacrest Group of Schools
+    location: Nairobi, Kenya
+    period: 2026 – Present
+    level: Junior & Senior School
+    bullets:
+      - Teach Kiswahili and History to learners at both Junior and Senior School levels.
+      - Plan and deliver learner-centred lessons aligned with the Competency-Based Education (CBE/CBC) framework.
+      - Develop and administer assessments to monitor learners' progress and achievement of competencies.
+      - Prepare schemes of work, lesson plans, teaching and learning resources, and assessment activities.
+      - Employ diverse teaching strategies to accommodate different learner abilities and learning needs.
+      - Integrate critical thinking, communication, collaboration, creativity, and problem-solving into classroom activities.
+      - Maintain effective classroom management and support learners' academic and social-emotional development.
+      - Participate in departmental activities, assessment, moderation, and other school programmes.
+  - role: Trainer / Sign Language Interpreter
+    org: NYOTA Program — ATDC Nakuru West
+    location: Nakuru, Kenya
+    period: January 2026 – March 2026
+    level: Social Emotional, Business & Digital Skills
+    bullets:
+      - Trained NYOTA beneficiaries on social-emotional, business, and digital skills.
+      - Provided sign language interpretation support during training sessions to promote accessible participation.
+  - role: High School Teacher — History & Kiswahili
+    org: Affluent High School
+    location: Nairobi, Kenya
+    period: 2024 & 2025 (Seasonal)
+    bullets:
+      - Taught History and Kiswahili to secondary school learners.
+      - Prepared lesson notes, set examinations, and evaluated learner performance.
+      - Promoted learner engagement through interactive teaching methods and active classroom participation.
+      - Supported learners' academic growth through engaging and structured instruction.
+  - role: Sign Language Teacher — Professional Attachment
+    org: Ngala School for the Deaf
+    location: Nakuru, Kenya
+    period: September 2025 – October 2025
+    bullets:
+      - Assisted in teaching learners using Kenyan Sign Language.
+      - Gained practical experience in inclusive education and communication with deaf learners.
+  - role: Teaching Practice — Kiswahili & History
+    org: Komarock Secondary School
+    location: Nairobi, Kenya
+    period: May 2024 – August 2024
+    bullets:
+      - Taught Kiswahili and History to secondary school learners during teaching practice.
+      - Prepared lesson plans, schemes of work, and instructional materials.
+      - Delivered learner-centred lessons using appropriate teaching methodologies.
+      - Conducted assessments and provided constructive feedback to learners.
+
+competencies:
+  - Competency-Based Education (CBE/CBC) implementation
+  - Junior & Senior School teaching
+  - History & Kiswahili instruction
+  - Competency-based assessment
+  - Curriculum implementation
+  - Learner-centred teaching
+  - Learner assessment & feedback
+  - Teaching & learning resource development
+  - Differentiated instruction
+  - Critical thinking & problem-solving development
+  - Communication & presentation skills
+  - Learner engagement & participation
+  - Classroom management
+  - Record keeping & academic reporting
+  - Inclusive education & Kenyan Sign Language
+  - Youth mentorship & facilitation
+  - Collaboration with teachers & school administration
+  - Adaptability & continuous learning
+
+languages:
+  - English
+  - Kiswahili
+  - Kenyan Sign Language
+
+certifications:
+  - Bachelor of Education (Second Class Honours, Upper Division)
+  - Certificate in Kenyan Sign Language — Training of Trainers
+  - Certificate in Training of Trainers (NYOTA Project)
+
+referees: Available upon request.
